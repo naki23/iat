@@ -1,0 +1,2 @@
+# iat
+előítéletesség mérése 
