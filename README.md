@@ -1,7 +1,6 @@
 # iat
 előítéletesség mérése 
-
-lesz majd ennél hosszabb dokumentáció is, és a programot majd még jobban ki kommentelem
+a dist mappában található pont ugyanaz a program amivel végeztük a méréseket
 
 
 további információk: nagy.kristof923@gmail.com
